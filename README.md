@@ -1,1 +1,1 @@
-Empty react app
+Quick clean react app setup
